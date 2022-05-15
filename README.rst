@@ -1,5 +1,5 @@
 ======
-geemap
+geemap by Qiusheng Wu
 ======
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
